@@ -24,8 +24,7 @@ B2B developer tooling, mid-market. Sells to engineering teams through a demo-led
   ],
   "assumptions": {
     "win_rate": 0.15,
-    "significance_threshold": 0.95,
-    "statistical_power": 0.80
+    "significance_threshold": 0.95
   }
 }
 ```

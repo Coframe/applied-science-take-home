@@ -24,8 +24,7 @@ Consumer fitness app, $12.99/month subscription. Growth is almost entirely web-t
   ],
   "assumptions": {
     "win_rate": 0.20,
-    "significance_threshold": 0.95,
-    "statistical_power": 0.80
+    "significance_threshold": 0.95
   }
 }
 ```

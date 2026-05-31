@@ -31,8 +31,7 @@ Mid-market apparel retailer, ~$40M annual online revenue. Sells across the US an
   ],
   "assumptions": {
     "win_rate": 0.25,
-    "significance_threshold": 0.95,
-    "statistical_power": 0.80
+    "significance_threshold": 0.95
   }
 }
 ```

@@ -31,8 +31,7 @@ Mid-market project management SaaS, freemium model. Free trial starts on the web
   ],
   "assumptions": {
     "win_rate": 0.20,
-    "significance_threshold": 0.95,
-    "statistical_power": 0.80
+    "significance_threshold": 0.95
   }
 }
 ```
