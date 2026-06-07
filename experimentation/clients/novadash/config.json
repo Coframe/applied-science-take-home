@@ -1,0 +1,32 @@
+{
+  "company": "NovaDash",
+  "program": {
+    "horizon_days": 365,
+    "reporting_cadence_days": 30,
+    "win_rate": 0.2,
+    "confidence_target": 0.95
+  },
+  "pages": [
+    {
+      "name": "Homepage",
+      "daily_visitors": 9400,
+      "baseline_rate": 0.048,
+      "revenue_per_conversion": 0,
+      "min_detectable_lift": 0.08
+    },
+    {
+      "name": "Pricing page",
+      "daily_visitors": 700,
+      "baseline_rate": 0.018,
+      "revenue_per_conversion": 79,
+      "min_detectable_lift": 0.03
+    },
+    {
+      "name": "Sign-up form",
+      "daily_visitors": 4500,
+      "baseline_rate": 0.61,
+      "revenue_per_conversion": 0,
+      "min_detectable_lift": 0.04
+    }
+  ]
+}

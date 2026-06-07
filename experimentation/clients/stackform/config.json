@@ -1,0 +1,25 @@
+{
+  "company": "Stackform",
+  "program": {
+    "horizon_days": 365,
+    "reporting_cadence_days": 30,
+    "win_rate": 0.15,
+    "confidence_target": 0.95
+  },
+  "pages": [
+    {
+      "name": "Homepage",
+      "daily_visitors": 1800,
+      "baseline_rate": 0.031,
+      "revenue_per_conversion": 0,
+      "min_detectable_lift": 0.07
+    },
+    {
+      "name": "Demo request page",
+      "daily_visitors": 620,
+      "baseline_rate": 0.074,
+      "revenue_per_conversion": 588,
+      "min_detectable_lift": 0.06
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "Thornfield & Co",
+  "program": {
+    "horizon_days": 365,
+    "reporting_cadence_days": 14,
+    "win_rate": 0.25,
+    "confidence_target": 0.95
+  },
+  "pages": [
+    {
+      "name": "Homepage",
+      "daily_visitors": 18000,
+      "baseline_rate": 0.031,
+      "revenue_per_conversion": 0,
+      "min_detectable_lift": 0.1
+    },
+    {
+      "name": "Product page",
+      "daily_visitors": 9400,
+      "baseline_rate": 0.042,
+      "revenue_per_conversion": 0,
+      "min_detectable_lift": 0.06
+    },
+    {
+      "name": "Checkout",
+      "daily_visitors": 860,
+      "baseline_rate": 0.69,
+      "revenue_per_conversion": 185,
+      "min_detectable_lift": 0.03
+    }
+  ]
+}

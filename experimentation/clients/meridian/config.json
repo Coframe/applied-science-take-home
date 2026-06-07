@@ -1,0 +1,25 @@
+{
+  "company": "Meridian",
+  "program": {
+    "horizon_days": 365,
+    "reporting_cadence_days": 7,
+    "win_rate": 0.2,
+    "confidence_target": 0.95
+  },
+  "pages": [
+    {
+      "name": "Homepage",
+      "daily_visitors": 11000,
+      "baseline_rate": 0.044,
+      "revenue_per_conversion": 12.99,
+      "min_detectable_lift": 0.08
+    },
+    {
+      "name": "Sign-up page",
+      "daily_visitors": 4800,
+      "baseline_rate": 0.57,
+      "revenue_per_conversion": 12.99,
+      "min_detectable_lift": 0.04
+    }
+  ]
+}

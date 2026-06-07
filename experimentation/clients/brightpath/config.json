@@ -1,0 +1,60 @@
+{
+  "company": "BrightPath",
+  "program": {
+    "horizon_days": 365,
+    "reporting_cadence_days": 30,
+    "win_rate": 0.2,
+    "confidence_target": 0.95
+  },
+  "pages": [
+    {
+      "name": "Homepage",
+      "daily_visitors": 5200,
+      "baseline_rate": 0.038,
+      "revenue_per_conversion": 49,
+      "min_detectable_lift": 0.08
+    },
+    {
+      "name": "Course: Project Management Fundamentals",
+      "daily_visitors": 1800,
+      "baseline_rate": 0.071,
+      "revenue_per_conversion": 49,
+      "min_detectable_lift": 0.06
+    },
+    {
+      "name": "Course: Data Analysis with Excel",
+      "daily_visitors": 1400,
+      "baseline_rate": 0.065,
+      "revenue_per_conversion": 49,
+      "min_detectable_lift": 0.06
+    },
+    {
+      "name": "Course: Leadership Essentials",
+      "daily_visitors": 920,
+      "baseline_rate": 0.058,
+      "revenue_per_conversion": 49,
+      "min_detectable_lift": 0.05
+    },
+    {
+      "name": "Course: Python for Beginners",
+      "daily_visitors": 870,
+      "baseline_rate": 0.082,
+      "revenue_per_conversion": 49,
+      "min_detectable_lift": 0.05
+    },
+    {
+      "name": "Course: Business Communication",
+      "daily_visitors": 640,
+      "baseline_rate": 0.049,
+      "revenue_per_conversion": 49,
+      "min_detectable_lift": 0.05
+    },
+    {
+      "name": "All other course pages (combined)",
+      "daily_visitors": 3100,
+      "baseline_rate": 0.041,
+      "revenue_per_conversion": 49,
+      "min_detectable_lift": 0.07
+    }
+  ]
+}
