@@ -59,10 +59,14 @@ The format and structure are up to you. At minimum, an Account Executive should 
 
 Email back a **recorded video** and your **code**.
 
+Alongside the code, include a short **write-up and research log** — we care as much
+about *how you got there* as the final tool: what you tried, what assumptions you
+debated, what you learned, and what you discarded and why.
+
 The video should cover:
 
 1. **Demo** — run the tool with at least one of the example clients; show how the output changes when assumptions shift.
-2. **Solution** — what you built, how, and why; include every AI tool and test harness you used during the build.
+2. **Solution & research log** — what you built, how, and why, and a walk through your research log/analysis. Include every AI tool and test harness you used during the build.
 3. **Edge cases** — what you handled, what you consciously left out, and why.
 4. **Productionization** — how would this evolve from a sales tool to a PoC to an actual planning tool?
 

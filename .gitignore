@@ -1,0 +1,11 @@
+# Local-only reference answers (kept out of the committed/pushed repo).
+experimentation/solution/
+personalization/reference/
+
+# Local dev environment + editor config (per-machine; not shipped).
+.venv/
+.vscode/
+pyrightconfig.json
+__pycache__/
+*.pyc
+.DS_Store
